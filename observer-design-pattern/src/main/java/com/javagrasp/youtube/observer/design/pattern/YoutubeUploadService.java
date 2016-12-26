@@ -14,15 +14,19 @@ public class YoutubeUploadService implements Subject {
     private long noOfLikes;
     private long noOfView;
 
+    /** Initialize the Observer*/
     public YoutubeUploadService() {
         observers = new ArrayList();
     }
 
+    /** Register the Observer
+     * */
     public void registerObserver(Observer o) {
         observers.add(o);
     }
 
 
+    /**Remove the Observer*/
     public void removeObserver(Observer o) {
         int i = observers.indexOf(o);
         if (i >= 0) {
@@ -30,6 +34,7 @@ public class YoutubeUploadService implements Subject {
         }
     }
 
+    /** Notify Observer on a Video Upload*/
     public void notifyObservers() {
         for (int i = 0; i < observers.size(); i++) {
             Observer observer = (Observer)observers.get(i);
