@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f8be2c9-3d7f-4b04-9198-4bc8a5fc71b0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/observer-design-pattern/src/main/java/com/javagrasp/youtube/observer/design/pattern/YoutubeUploadService.java" afterPath="$PROJECT_DIR$/observer-design-pattern/src/main/java/com/javagrasp/youtube/observer/design/pattern/YoutubeUploadService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="design-patterns-headsfirst.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,43 +27,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CurrentConditionsDisplay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer-design-pattern/src/main/java/com/javagrasp/step3_java_api_implementation/CurrentConditionsDisplay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NewVideoDisplay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer-design-pattern/src/main/java/com/javagrasp/youtube/java/api/observer/design/pattern/NewVideoDisplay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestObserverPattern.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer-design-pattern/src/main/java/com/javagrasp/youtube/java/api/observer/design/pattern/TestObserverPattern.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WeatherStation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WeatherStation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/observer-design-pattern/src/test/java/com/javagrasp/WeatherStation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -72,20 +37,127 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JAVA/com.javagrasp.youtube.java.api.observer.design.pattern" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.javagrasp.youtube.java.api.observer.design.pattern">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/decorator-design-pattern/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubJointBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/decorator/SubJointBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChickenTeriyaki.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/decorator/ChickenTeriyaki.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Olives.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/decorator/Olives.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CondimentDecorator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/decorator/CondimentDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestSubWay.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/decorator/TestSubWay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/com.javagrasp.decorator" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.javagrasp.decorator">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
               <ID>JAVA</ID>
-              <OriginalElement>com.javagrasp.youtube.java.api.observer.design.pattern</OriginalElement>
+              <OriginalElement>com.javagrasp.decorator</OriginalElement>
               <nodes>
-                <node x="0.0" y="74.0">com.javagrasp.youtube.java.api.observer.design.pattern.NewVideoDisplay</node>
-                <node x="0.0" y="0.0">com.javagrasp.youtube.java.api.observer.design.pattern.YoutubeUploadService</node>
-                <node x="0.0" y="148.0">com.javagrasp.youtube.java.api.observer.design.pattern.DisplayElement</node>
+                <node x="184.25" y="79.0">com.javagrasp.decorator.ChickenTeriyaki</node>
+                <node x="91.0" y="158.0">com.javagrasp.decorator.Lettuce</node>
+                <node x="0.0" y="158.0">com.javagrasp.decorator.Olives</node>
+                <node x="0.0" y="232.0">com.javagrasp.decorator.TestSubWay</node>
+                <node x="110.75" y="0.0">com.javagrasp.decorator.SubJointBase</node>
+                <node x="1.25" y="79.0">com.javagrasp.decorator.CondimentDecorator</node>
               </nodes>
               <notes />
-              <edges />
-              <settings layout="Hierarchic Group" zoom="1.0" x="-139.0" y="-46.0" />
+              <edges>
+                <edge source="com.javagrasp.decorator.ChickenTeriyaki" target="com.javagrasp.decorator.SubJointBase">
+                  <point x="0.0" y="-14.5" />
+                  <point x="250.75" y="54.0" />
+                  <point x="194.75" y="54.0" />
+                  <point x="28.0" y="14.5" />
+                </edge>
+                <edge source="com.javagrasp.decorator.CondimentDecorator" target="com.javagrasp.decorator.SubJointBase">
+                  <point x="0.0" y="-14.5" />
+                  <point x="82.75" y="54.0" />
+                  <point x="138.75" y="54.0" />
+                  <point x="-28.0" y="14.5" />
+                </edge>
+                <edge source="com.javagrasp.decorator.Olives" target="com.javagrasp.decorator.CondimentDecorator">
+                  <point x="0.0" y="-14.5" />
+                  <point x="35.5" y="133.0" />
+                  <point x="42.0" y="133.0" />
+                  <point x="-40.75" y="14.5" />
+                </edge>
+                <edge source="com.javagrasp.decorator.Lettuce" target="com.javagrasp.decorator.CondimentDecorator">
+                  <point x="0.0" y="-14.5" />
+                  <point x="130.0" y="133.0" />
+                  <point x="123.5" y="133.0" />
+                  <point x="40.75" y="14.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="14.0" y="141.0" />
               <SelectedNodes />
               <Categories />
               <SCOPE>All</SCOPE>
@@ -94,35 +166,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NewVideoDisplay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer-design-pattern/src/main/java/com/javagrasp/youtube/observer/design/pattern/NewVideoDisplay.java">
+      <file leaf-file-name="Lettuce.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/decorator/Lettuce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="5" selection-start-line="25" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="YoutubeUploadService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer-design-pattern/src/main/java/com/javagrasp/youtube/java/api/observer/design/pattern/YoutubeUploadService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
               <folding>
-                <element signature="method#YoutubeUploadService#0;class#YoutubeUploadService#0" expanded="false" />
-                <element signature="e#782#783#0" expanded="true" />
-                <element signature="e#816#817#0" expanded="true" />
-                <element signature="e#870#871#0" expanded="true" />
-                <element signature="e#916#917#0" expanded="true" />
-                <element signature="e#950#951#0" expanded="true" />
-                <element signature="e#982#983#0" expanded="true" />
-                <element signature="e#1030#1031#0" expanded="true" />
-                <element signature="e#1072#1073#0" expanded="true" />
-                <element signature="e#1105#1106#0" expanded="true" />
-                <element signature="e#1136#1137#0" expanded="true" />
-                <element signature="e#1182#1183#0" expanded="true" />
-                <element signature="e#1222#1223#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,40 +186,25 @@
       <file leaf-file-name="Observable.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Observable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
+            <state relative-caret-position="1860">
               <caret line="151" column="0" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
               <folding>
-                <element signature="e#3747#3748#0" expanded="true" />
-                <element signature="e#3784#3785#0" expanded="true" />
+                <element signature="e#0#7247#0" expanded="false" />
+                <element signature="e#2047#2048#0" expanded="false" />
+                <element signature="e#2083#2084#0" expanded="false" />
+                <element signature="e#2952#2953#0" expanded="false" />
+                <element signature="e#2988#2989#0" expanded="false" />
+                <element signature="e#5696#5697#0" expanded="false" />
+                <element signature="e#5735#5736#0" expanded="false" />
+                <element signature="e#5937#5938#0" expanded="false" />
+                <element signature="e#5967#5968#0" expanded="false" />
+                <element signature="e#6483#6484#0" expanded="false" />
+                <element signature="e#6514#6515#0" expanded="false" />
+                <element signature="e#6978#6979#0" expanded="false" />
+                <element signature="e#7008#7009#0" expanded="false" />
+                <element signature="e#7210#7211#0" expanded="false" />
+                <element signature="e#7243#7244#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/com.javagrasp.youtube.java.api.observer.design.pattern.YoutubeUploadService" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.javagrasp.youtube.java.api.observer.design.pattern.YoutubeUploadService">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.javagrasp.youtube.java.api.observer.design.pattern.YoutubeUploadService</OriginalElement>
-              <nodes>
-                <node x="0.0" y="79.0">com.javagrasp.youtube.java.api.observer.design.pattern.YoutubeUploadService</node>
-                <node x="35.0" y="0.0">java.util.Observable</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.javagrasp.youtube.java.api.observer.design.pattern.YoutubeUploadService" target="java.util.Observable">
-                  <point x="0.0" y="-14.5" />
-                  <point x="0.0" y="14.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-139.0" y="-80.5" />
-              <SelectedNodes>
-                <node>com.javagrasp.youtube.java.api.observer.design.pattern.YoutubeUploadService</node>
-              </SelectedNodes>
-              <Categories />
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -195,16 +235,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step4_Separating_what_changes_from_what_stays_the_same/Duck.java" />
-        <option value="$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step4_Separating_what_changes_from_what_stays_the_same/Quackable.java" />
-        <option value="$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step4_Separating_what_changes_from_what_stays_the_same/QuackBehaviour.java" />
-        <option value="$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step4_Separating_what_changes_from_what_stays_the_same/FlyBehaviour.java" />
-        <option value="$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step5_Separating_what_changes_from_what_stays_the_same/FlyBehaviour.java" />
-        <option value="$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step5_Separating_what_changes_from_what_stays_the_same/QuackBehaviour.java" />
-        <option value="$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step5_Separating_what_changes_from_what_stays_the_same/FlyWithWings.java" />
-        <option value="$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step5_Separating_what_changes_from_what_stays_the_same/FlyNoWay.java" />
-        <option value="$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step5_Separating_what_changes_from_what_stays_the_same/Duck.java" />
-        <option value="$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step5_Separating_what_changes_from_what_stays_the_same/Quack.java" />
         <option value="$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step5_Separating_what_changes_from_what_stays_the_same/Squeak.java" />
         <option value="$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step5_Separating_what_changes_from_what_stays_the_same/MuteQuack.java" />
         <option value="$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step5_Separating_what_changes_from_what_stays_the_same/MallardDuck.java" />
@@ -246,6 +276,16 @@
         <option value="$PROJECT_DIR$/observer-design-pattern/src/main/java/com/javagrasp/youtube/java/api/observer/design/pattern/NewVideoDisplay.java" />
         <option value="$PROJECT_DIR$/observer-design-pattern/src/main/java/com/javagrasp/youtube/java/api/observer/design/pattern/TestObserverPattern.java" />
         <option value="$PROJECT_DIR$/observer-design-pattern/src/main/java/com/javagrasp/youtube/java/api/observer/design/pattern/YoutubeUploadService.java" />
+        <option value="$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/classexplotion/SimpleSub.java" />
+        <option value="$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/classexplotion/SweetOnionChicken.java" />
+        <option value="$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/classexplotion/CondimentDecorator.java" />
+        <option value="$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/classexplotion/Olives.java" />
+        <option value="$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/classexplotion/SubJointBase.java" />
+        <option value="$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/classexplotion/Lettuce.java" />
+        <option value="$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/classexplotion/ChickenTeriyaki.java" />
+        <option value="$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/classexplotion/TestSubWay.java" />
+        <option value="$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/decorator/TestSubWay.java" />
+        <option value="$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/decorator/CondimentDecorator.java" />
       </list>
     </option>
   </component>
@@ -426,16 +466,18 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="design-patterns-headsfirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-patterns-headsfirst" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javagrasp" />
+              <option name="myItemId" value="decorator-design-pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -449,7 +491,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="observer-design-pattern" />
+              <option name="myItemId" value="decorator-design-pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -467,29 +509,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="observer-design-pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-patterns-headsfirst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-patterns-headsfirst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="observer-design-pattern" />
+              <option name="myItemId" value="decorator-design-pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -500,20 +520,30 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-patterns-headsfirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-patterns-headsfirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="decorator-design-pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javagrasp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="youtube" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -527,7 +557,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="observer-design-pattern" />
+              <option name="myItemId" value="decorator-design-pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -543,117 +573,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="javagrasp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="youtube" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-patterns-headsfirst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-patterns-headsfirst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="observer-design-pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javagrasp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="youtube" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-patterns-headsfirst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-patterns-headsfirst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="observer-design-pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javagrasp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step3_java_api_implementation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-patterns-headsfirst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-patterns-headsfirst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="observer-design-pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javagrasp" />
+              <option name="myItemId" value="decorator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -691,27 +611,7 @@
       <recent name="$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step2addfly" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestObserverPattern">
-    <configuration default="false" name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.javagrasp.step6_behaviour_change_at_runtime.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.javagrasp.step6_behaviour_change_at_runtime.MiniDuckSimulator" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="strategy-design-pattern" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.TestSubWay">
     <configuration default="false" name="MiniDuckSimulator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -789,6 +689,26 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="observer-design-pattern" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestSubWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javagrasp.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.javagrasp.decorator.TestSubWay" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="decorator-design-pattern" />
       <envs />
       <method />
     </configuration>
@@ -1335,19 +1255,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MiniDuckSimulator" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MiniDuckSimulator (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.WeatherStation" />
-      <item index="3" class="java.lang.String" itemvalue="Application.WeatherStationPatternBased" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestObserverPattern" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MiniDuckSimulator (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.WeatherStation" />
+      <item index="2" class="java.lang.String" itemvalue="Application.WeatherStationPatternBased" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestObserverPattern" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestSubWay" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestObserverPattern" />
-        <item index="1" class="java.lang.String" itemvalue="Application.WeatherStationPatternBased" />
-        <item index="2" class="java.lang.String" itemvalue="Application.WeatherStation" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MiniDuckSimulator (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MiniDuckSimulator" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestSubWay" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestObserverPattern" />
+        <item index="2" class="java.lang.String" itemvalue="Application.WeatherStationPatternBased" />
+        <item index="3" class="java.lang.String" itemvalue="Application.WeatherStation" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MiniDuckSimulator (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -1365,43 +1285,44 @@
       <option name="presentableId" value="Default" />
       <updated>1475717400079</updated>
       <workItem from="1475717401428" duration="8075000" />
-      <workItem from="1482627915954" duration="12330000" />
+      <workItem from="1482627915954" duration="12554000" />
+      <workItem from="1482899261153" duration="2613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20405000" />
+    <option name="totallyTimeSpent" value="23242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="100" y="100" width="1720" height="880" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31325302" sideWeight="0.4914163" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38072288" sideWeight="0.4914163" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33476394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44921315" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.49713877" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3992095" sideWeight="0.49713877" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="100" y="100" width="1720" height="880" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1470,63 +1391,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step6_behaviour_change_at_runtime/QuackBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step6_behaviour_change_at_runtime/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step6_behaviour_change_at_runtime/MiniDuckSimulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step5_separating_what_changes_from_what_stays_the_same/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step7_dynamic_behaviour_even_more_better/Quack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step7_dynamic_behaviour_even_more_better/QuackBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step7_dynamic_behaviour_even_more_better/Squeak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step7_dynamic_behaviour_even_more_better/FlyNoWay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/strategy-design-pattern/src/main/java/com/javagrasp/step7_dynamic_behaviour_even_more_better/FlyBehaviour.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1563,7 +1427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1571,7 +1434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="28" column="68" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1579,7 +1441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1595,7 +1456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1603,7 +1463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1611,7 +1470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1619,7 +1477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1639,7 +1496,7 @@
               <point x="0.0" y="14.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-409.5" y="-183.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-409.0" y="-183.0" />
           <SelectedNodes>
             <node>com.javagrasp.step2_manual_implementation.WeatherData</node>
           </SelectedNodes>
@@ -1663,10 +1520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1674,7 +1527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1682,7 +1534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1690,7 +1541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="53" column="5" selection-start-line="43" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1704,7 +1554,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="86.0" y="14.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="86.0" y="15.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -1716,7 +1566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1724,7 +1573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1732,20 +1580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#805#806#0" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-            <element signature="e#891#892#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1753,10 +1587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#186#187#0" expanded="false" />
-            <element signature="e#231#232#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1765,12 +1595,12 @@
         <state relative-caret-position="480">
           <caret line="48" column="5" selection-start-line="39" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
           <folding>
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#1040#1041#0" expanded="true" />
-            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="false" />
+            <element signature="e#543#544#0" expanded="false" />
+            <element signature="e#591#592#0" expanded="false" />
+            <element signature="e#623#624#0" expanded="false" />
+            <element signature="e#1040#1041#0" expanded="false" />
+            <element signature="e#1073#1074#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1814,7 +1644,7 @@
               <point x="0.0" y="14.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-106.5" y="-4.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-106.0" y="-4.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -1838,7 +1668,7 @@
               <point x="0.0" y="14.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-139.0" y="-80.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-139.0" y="-80.0" />
           <SelectedNodes>
             <node>com.javagrasp.youtube.observer.design.pattern.YoutubeUploadService</node>
           </SelectedNodes>
@@ -1852,7 +1682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1860,7 +1689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1868,7 +1696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1896,14 +1723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="557">
           <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="54" selection-end-column="5" />
-          <folding>
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#1022#1023#0" expanded="true" />
-            <element signature="e#1055#1056#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1911,7 +1730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1925,11 +1743,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/observer-design-pattern/src/main/java/com/javagrasp/step3_java_api_implementation/CurrentConditionsDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="480">
           <caret line="35" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1957,7 +1773,7 @@
               <point x="0.0" y="14.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-139.0" y="-80.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-139.0" y="-80.0" />
           <SelectedNodes>
             <node>com.javagrasp.youtube.java.api.observer.design.pattern.YoutubeUploadService</node>
           </SelectedNodes>
@@ -1989,11 +1805,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/observer-design-pattern/src/main/java/com/javagrasp/youtube/java/api/observer/design/pattern/NewVideoDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="105">
           <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2001,9 +1815,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2013,29 +1825,30 @@
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="method#YoutubeUploadService#0;class#YoutubeUploadService#0" expanded="false" />
-            <element signature="e#782#783#0" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#916#917#0" expanded="true" />
-            <element signature="e#950#951#0" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1030#1031#0" expanded="true" />
-            <element signature="e#1072#1073#0" expanded="true" />
-            <element signature="e#1105#1106#0" expanded="true" />
-            <element signature="e#1136#1137#0" expanded="true" />
-            <element signature="e#1182#1183#0" expanded="true" />
-            <element signature="e#1222#1223#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Observable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
+        <state relative-caret-position="1860">
           <caret line="151" column="0" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
           <folding>
-            <element signature="e#3747#3748#0" expanded="true" />
-            <element signature="e#3784#3785#0" expanded="true" />
+            <element signature="e#0#7247#0" expanded="false" />
+            <element signature="e#2047#2048#0" expanded="false" />
+            <element signature="e#2083#2084#0" expanded="false" />
+            <element signature="e#2952#2953#0" expanded="false" />
+            <element signature="e#2988#2989#0" expanded="false" />
+            <element signature="e#5696#5697#0" expanded="false" />
+            <element signature="e#5735#5736#0" expanded="false" />
+            <element signature="e#5937#5938#0" expanded="false" />
+            <element signature="e#5967#5968#0" expanded="false" />
+            <element signature="e#6483#6484#0" expanded="false" />
+            <element signature="e#6514#6515#0" expanded="false" />
+            <element signature="e#6978#6979#0" expanded="false" />
+            <element signature="e#7008#7009#0" expanded="false" />
+            <element signature="e#7210#7211#0" expanded="false" />
+            <element signature="e#7243#7244#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2044,6 +1857,136 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator-design-pattern/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.javagrasp.decorator">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.javagrasp.decorator</OriginalElement>
+          <nodes>
+            <node x="184.25" y="79.0">com.javagrasp.decorator.ChickenTeriyaki</node>
+            <node x="91.0" y="158.0">com.javagrasp.decorator.Lettuce</node>
+            <node x="0.0" y="158.0">com.javagrasp.decorator.Olives</node>
+            <node x="0.0" y="232.0">com.javagrasp.decorator.TestSubWay</node>
+            <node x="110.75" y="0.0">com.javagrasp.decorator.SubJointBase</node>
+            <node x="1.25" y="79.0">com.javagrasp.decorator.CondimentDecorator</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.javagrasp.decorator.ChickenTeriyaki" target="com.javagrasp.decorator.SubJointBase">
+              <point x="0.0" y="-14.5" />
+              <point x="250.75" y="54.0" />
+              <point x="194.75" y="54.0" />
+              <point x="28.0" y="14.5" />
+            </edge>
+            <edge source="com.javagrasp.decorator.CondimentDecorator" target="com.javagrasp.decorator.SubJointBase">
+              <point x="0.0" y="-14.5" />
+              <point x="82.75" y="54.0" />
+              <point x="138.75" y="54.0" />
+              <point x="-28.0" y="14.5" />
+            </edge>
+            <edge source="com.javagrasp.decorator.Olives" target="com.javagrasp.decorator.CondimentDecorator">
+              <point x="0.0" y="-14.5" />
+              <point x="35.5" y="133.0" />
+              <point x="42.0" y="133.0" />
+              <point x="-40.75" y="14.5" />
+            </edge>
+            <edge source="com.javagrasp.decorator.Lettuce" target="com.javagrasp.decorator.CondimentDecorator">
+              <point x="0.0" y="-14.5" />
+              <point x="130.0" y="133.0" />
+              <point x="123.5" y="133.0" />
+              <point x="40.75" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="14.0" y="141.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/decorator/SubJointBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/decorator/ChickenTeriyaki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/decorator/CondimentDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/decorator/Lettuce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/decorator/Olives.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator-design-pattern/src/main/java/com/javagrasp/decorator/TestSubWay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2100,7 +2043,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>observer-design-pattern</last-edited>
+          <last-edited>decorator-design-pattern</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

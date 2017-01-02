@@ -11,6 +11,7 @@
     <modules>
         <module>strategy-design-pattern</module>
         <module>observer-design-pattern</module>
+        <module>decorator-design-pattern</module>
     </modules>
 
 
